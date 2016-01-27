@@ -1,0 +1,9 @@
+.git*
+.gitignore
+vendor*
+templates*
+.idea*
+.well-know*
+README.md
+excludes.txt
+composer.lock
